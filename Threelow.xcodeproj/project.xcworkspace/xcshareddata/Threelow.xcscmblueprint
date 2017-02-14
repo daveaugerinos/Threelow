@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74179AC21D89C8BEADBD90282E1D833E863E1F80",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74179AC21D89C8BEADBD90282E1D833E863E1F80" : 9223372036854775807,
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1627EAA3-A5A9-48CB-95AC-CDD71AA9598C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74179AC21D89C8BEADBD90282E1D833E863E1F80" : "Threelow\/",
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Threelow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Threelow.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daveaugerinos\/LightHouseLabs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daveaugerinos\/Threelow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74179AC21D89C8BEADBD90282E1D833E863E1F80"
+    }
+  ]
+}
